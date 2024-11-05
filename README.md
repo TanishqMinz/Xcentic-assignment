@@ -26,7 +26,7 @@ This project was made by Tanishq Minz as part of the assignment given by XCENTIC
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/TanishqMinz/Xcentic-assignment
    ```
 
 2. Install frontend dependencies:
